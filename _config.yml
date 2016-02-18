@@ -1,7 +1,7 @@
 name: Château Lestevenie
 favicon: null
-layout_spectrum: 0.5776543945539743
-typography_spectrum: 0.49906
+layout_spectrum: 0.87506
+typography_spectrum: 0.1411
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#816822'
     - '#e3d67d'
   brandStrength: 0.625
-  lightness: 0.3040554444305599
-  saturation: 0.125
+  lightness: 0.375
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
