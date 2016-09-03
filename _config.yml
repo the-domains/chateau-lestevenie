@@ -1,19 +1,4 @@
-name: Château Lestevenie
-favicon: null
-layout_spectrum: 0.10926
 typography_spectrum: 0.1411
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010001'
@@ -25,4 +10,20 @@ color:
   lightness: 0.375
   saturation: 1
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.10926
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Château Lestevenie
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: here
 purpose: []
